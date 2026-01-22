@@ -38,7 +38,7 @@ This group includes **184 studies** that focus primarily on:
 * Model structure development and validation
 * Related applications such as system sizing, design, or offline analysis
 
-These papers provide methodological foundations and contextual background but are **not the primary focus of the operational synthesis** in the review.
+These papers provide methodological foundations and contextual background, but are not the primary focus of the operational synthesis in the review.
 
 
 

@@ -13,7 +13,7 @@ The repository collects peer-reviewed studies on **dynamic modeling of HVAC syst
 
 The repository contains **two complementary paper groups**, corresponding to different roles of dynamic models in the literature.
 
-### Group 1: Dynamic models applied to operational tasks (181 papers)
+### Group 1: Dynamic models applied to operational tasks (181 studies)
 
 This group includes **181 studies** that apply dynamic HVAC models to one or more of the following operational domains:
 
@@ -30,7 +30,7 @@ They are analyzed in terms of:
 * Evaluation settings (simulation, laboratory, HIL, or real buildings)
 * Deployment maturity and reported performance outcomes
 
-### Group 2: Dynamic model development and related applications (184 papers)
+### Group 2: Dynamic model development and related applications (184 studies)
 
 This group includes **184 studies** that focus primarily on:
 
